@@ -1,0 +1,33 @@
+body {
+  background-color: olivedrab;
+}
+input{
+    alignment: center;
+
+}
+h4{
+    background: darkgrey;
+    text-align: center;
+    font-family: Tahoma;
+    color: red;
+}
+
+
+h1{
+    background: darkgrey;
+    text-align: center;
+    font-family: Tahoma;
+    color: red;
+}
+h3{
+    background: darkgrey;
+    text-align: center;
+    font-family: Tahoma;
+    color: red;
+}
+
+img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
